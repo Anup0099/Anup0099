@@ -15,4 +15,4 @@
 
 ### **My Stats:** :man_technologist: 
 
-![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anup0099_icons=true&theme=radical)
+![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anup0099icons=true&theme=radical)
