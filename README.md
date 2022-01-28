@@ -17,7 +17,9 @@
 
 
 <!-- <br /> -->
-<img align="right" alt="GIF" src="coding-freak.gif?raw=true" width="420" height="290" /> 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <!-- - 😁💻🔌 Travelling | Fitness | Movies | Football | Cricket | Swimming | Coding  -->
 
