@@ -43,6 +43,20 @@ https://anupsportfolio.netlify.app
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## **"You can ask to me about!**
+- Front-end development using **React.js**
+- Backend development using **Node.js & Express Js**
+- Solving Data structure and algorithm questions in **CPP**
+
+ 
+## **"Some More About Me!**
+- I’m currently working on **Web Development** using **React.js and Node.js**
+- I’m currently learning **DSA and Backend Development**
+- Ask me about DSA and Web Development [MERN Development]
+- I’m looking to collaborate on exciting Open-Source Projects and Hackathons
+- Fun fact: What make me more happy?? **To help others and grow-up together**
+ 
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anup0099&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="aniket7515" /></a> </p>
 
 <!-- <img align="center" alt="GIF" src="coding-freak.gif?raw=true" width="450" height="290" />  -->
@@ -62,5 +76,17 @@ https://anupsportfolio.netlify.app
  <img src="https://activity-graph.herokuapp.com/graph?username=Anup0099&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+ <h2 align="center">Productivity Stats📈 !! 😊</h2>
+ 
+ <table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anup0099&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
+  </tr> 
+   
+ <tr>
+   <td><img src="https://activity-graph.herokuapp.com/graph?username=Anup0099&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+  <tr><td>😀</td></tr>    
 
 - **[Detailed Stats](https://gitstats.me/Anup0099)**
