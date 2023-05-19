@@ -60,7 +60,7 @@ https://anupsportfolio.netlify.app
 <img src="https://github-readme-activity-graph-1.josr3.repl.co/graph?username=Anup0099&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401">
 </div>
     <div>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anup0099">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anup0099&theme=react-dark">
     </div>
 <div align="center">
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=Anup0099&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Anup's+Github+Stats" alt="Anup's Github stats" />
